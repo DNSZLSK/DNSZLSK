@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="octocat-gh-space-shooter.gif" alt="Mon jeu GitHub">
+  <img src="octocat-gh-space-shooter.gif" alt="">
 </p>
 
-<h1 align="center">Bienvenue sur mon profil GitHub !</h1>
+<h1 align="center">« It works on my machine »</h1>
