@@ -2,6 +2,8 @@
   <img src="octocat-gh-space-shooter.gif" alt="">
 </p>
 
-<h1 align="center" style="color:#1E90FF; font-family: 'Courier New', monospace;">
-  « It works on my machine »
-</h1>
+<p align="center">
+<pre>
+<span style="color:#1E90FF;">« It works on my machine »</span>
+</pre>
+</p>
