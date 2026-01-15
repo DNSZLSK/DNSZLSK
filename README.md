@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="octocat-gh-space-shooter.gif" alt="">
+  <img src="portal.gif" alt="">
 </p>
 
 <p align="center">
