@@ -53,18 +53,6 @@ Location: France
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNSZLSK&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNSZLSK&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
-</div>
-
----
-
 ## Random Facts
 
 Former sous-chef. I approach code like recipes: precision matters.
