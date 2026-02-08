@@ -1,77 +1,69 @@
 <div align="center">
 
-# Hey, I'm Kewin
+### Développeur en formation | CDA
 
-### *Lost in the Art of code, one Age at a time.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%C2%AB+It+works+on+my+machine+%C2%BB;Crafting+solutions%2C+not+just+code;From+kitchen+to+keyboard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=De+la+cuisine+au+code;4+mois+de+formation;J'apprends+en+construisant)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## Où j'en suis
 
-Developer in training with a unique path. From kitchens and construction sites to crafting code. Currently pursuing a **CDA (Concepteur Developpeur d'Applications)** certification at AFPA, with an **Expert en Architecture et Developpement Logiciel** program starting September 2026 at ENI.
+**En formation CDA** (Concepteur Développeur d'Applications) à l'AFPA Langueux depuis octobre 2024.  
+Parcours atypique : 10+ ans en restauration, BTP et événementiel avant de me reconvertir dans le dev.
 
-I believe in doing things the right way, not just the fast way.
+**Accepté pour septembre 2026** au programme Expert en Architecture et Développement Logiciel (ENI).
 
-```
-Looking for: Internship (May-July 2026) & Alternance (2 years)
-Location: France
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+**Ce que je cherche :**
+- Stage de 10 semaines (mai-juillet 2026)
+- Alternance 2 ans (sept. 2026)
+- Bretagne ou remote
 
 ---
 
-## Random Facts
+## Projet principal
 
-Former sous-chef. I approach code like recipes: precision matters.
+### [MUAD'DIB](https://github.com/DNSZLSK/muad-dib) - Scanner de sécurité npm
+Scanner open-source pour détecter les packages npm malveillants.
 
-Ex-DJ and event manager. I know how to orchestrate complex systems.
+- 9 moteurs d'analyse + 1500 IOCs
+- 91 tests, 97%+ coverage
+- GitHub Action, VS Code extension, CLI
+- Publié sur [npm](https://www.npmjs.com/package/muaddib-scanner)
 
-Worked in plumbing. Debugging is basically the same thing.
+**Stack utilisée :** Node.js, Acorn (AST), SARIF, GitHub Actions
 
 ---
 
-<div align="center">
+## Ce que j'apprends
 
-### Let's Connect
+**En formation :**  
+JavaScript, Python, Java, SQL, React, Spring Boot, Git, Docker
+
+**Par la pratique :**  
+CI/CD, tests automatisés, analyse statique, architecture logicielle
+
+---
+
+## Ce que j'apporte
+
+- **Rigueur** : 17 ans en cuisine = pas de demi-mesure
+- **Autonomie** : J'apprends en construisant des projets concrets
+- **Pragmatisme** : Je code pour résoudre des problèmes réels
+- **Communication directe** : Pas de bullshit, juste du factuel
+
+---
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kewin-poszalski)
 
 ---
 
-*"The mystery of life isn't a problem to solve, but a reality to experience."*
+<div align="center">
+
+*"The code must flow."*
 
 ![Visitors](https://komarev.com/ghpvc/?username=DNSZLSK&color=00ff00&style=flat-square)
 
