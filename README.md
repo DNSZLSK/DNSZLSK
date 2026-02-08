@@ -2,7 +2,7 @@
 
 ### Développeur en formation | CDA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=De+la+cuisine+au+code;4+mois+de+formation;J'apprends+en+construisant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=De+la+cuisine+au+code;En+formation+Concepteur+Développeur+d'Applications;J'apprends+en+construisant)](https://git.io/typing-svg)
 
 </div>
 
