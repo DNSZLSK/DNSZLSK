@@ -8,16 +8,15 @@
 
 -----
 
-## Où j’en suis
+## Où j'en suis
 
-**En formation CDA** (Concepteur Développeur d’Applications) à l’AFPA Langueux depuis octobre 2025.  
+**En formation CDA** (Concepteur Développeur d'Applications) à l'AFPA Langueux depuis octobre 2024.  
 Parcours atypique : 10+ ans en restauration, BTP et événementiel avant de me reconvertir dans le dev.
 
 **Accepté pour septembre 2026** au programme Expert en Architecture et Développement Logiciel (ENI).
 
 **Ce que je cherche :**
-
-- Stage de 10 semaines (mai-juillet 2026)
+- Stage de 10 semaines (21 mai - 31 juillet 2026)
 - Alternance 2 ans (sept. 2026)
 - Bretagne ou remote
 
@@ -25,37 +24,40 @@ Parcours atypique : 10+ ans en restauration, BTP et événementiel avant de me r
 
 ## Projet principal
 
-### [MUAD’DIB](https://github.com/DNSZLSK/muad-dib) - Scanner de sécurité supply chain
+### [MUAD'DIB](https://github.com/DNSZLSK/muad-dib) - Scanner de sécurité supply chain
 
-Scanner open-source pour détecter les malwares dans les packages npm et PyPI.
+Scanner open-source pour détecter les malwares dans les packages npm et PyPI. Tourne 24/7 sur un VPS, scanne chaque nouveau package publié dans le monde.
+
+```bash
+npx muaddib-scanner scan .
+```
 
 **Détection :**
-
+- 14 scanners (AST, dataflow, obfuscation, entropie, shell, GitHub Actions, AI config injection)
 - 225K+ IOCs npm, 14K+ IOCs PyPI
-- Analyse statique (AST, dataflow, obfuscation, entropie)
-- Sandbox Docker dynamique (strace, tcpdump)
-- Canary tokens (honeypots pour piéger l’exfiltration)
-- CI-aware sandbox (simule GitHub Actions, GitLab CI, etc.)
+- Sandbox Docker dynamique (strace, tcpdump, canary tokens)
+- Analyse temporelle (diff entre versions, changements de mainteneur)
+- Monitoring temps réel npm/PyPI avec alertes Discord
 
 **Qualité :**
-
-- 755 tests, 74% coverage
-- Ground Truth validé : 5/5 attaques historiques détectées
-- Audit sécurité : 0 CRITICAL, 0 HIGH
-- OpenSSF Scorecard : 5.2
+- 862 tests, 94 règles de détection
+- 91.8% TPR sur 51 malwares réels
+- 100% ADR sur 78 tests adversarial
+- 96K+ packages scannés en monitoring
 
 **Distribution :**
-
 - [npm](https://www.npmjs.com/package/muaddib-scanner) (CLI)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=dnszlsk.muaddib-vscode)
 - GitHub Action
-- Monitoring 24/7 sur VPS
+- Monitoring 24/7 sur VPS (4€/mois)
 
 **Stack :** Node.js, Docker, Acorn (AST), SARIF, GitHub Actions
 
+**Transparence :** Le code a été écrit avec Claude (Anthropic). J'ai dirigé l'architecture, les décisions de conception, les tests et les audits.
+
 -----
 
-## Ce que j’apprends
+## Ce que j'apprends
 
 **En formation :**  
 JavaScript, Python, Java, SQL, React, Spring Boot, Git, Docker
@@ -65,10 +67,10 @@ CI/CD, tests automatisés, analyse statique, sécurité supply chain, architectu
 
 -----
 
-## Ce que j’apporte
+## Ce que j'apporte
 
-- **Rigueur** : 17 ans en cuisine = pas de demi-mesure
-- **Autonomie** : J’apprends en construisant des projets concrets
+- **Rigueur** : 10 ans en cuisine = pas de demi-mesure
+- **Autonomie** : J'apprends en construisant des projets concrets
 - **Pragmatisme** : Je code pour résoudre des problèmes réels
 - **Communication directe** : Pas de bullshit, juste du factuel
 
@@ -82,7 +84,7 @@ CI/CD, tests automatisés, analyse statique, sécurité supply chain, architectu
 
 <div align="center">
 
-*“The code must flow.”*
+*"The code must flow."*
 
 ![Visitors](https://komarev.com/ghpvc/?username=DNSZLSK&color=00ff00&style=flat-square)
 
