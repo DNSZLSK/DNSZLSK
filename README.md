@@ -11,7 +11,7 @@
 ## Où j'en suis
 
 **En formation CDA** (Concepteur Développeur d'Applications) à l'AFPA Langueux depuis octobre 2024.  
-Parcours atypique : 10+ ans en restauration, BTP et événementiel avant de me reconvertir dans le dev.
+Parcours atypique : 17+ ans en restauration, BTP et événementiel avant de me reconvertir dans le dev.
 
 **Accepté pour septembre 2026** au programme Expert en Architecture et Développement Logiciel (ENI).
 
