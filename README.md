@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kéwin Poszalski
+# DNSZLSK
 
 CDA @ AFPA Bretagne · Expert EADL @ ENI (sept. 2026)
 
