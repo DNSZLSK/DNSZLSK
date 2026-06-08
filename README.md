@@ -57,6 +57,17 @@ Stack : Python, Flet, sldl, FFT/librosa
 
 ---
 
+### [MUSUBI](https://dnszlsk.github.io/musubi/) - Jeu de puzzle rétro
+
+Jeu de logique style CRT inspiré de Glyn. Relie les chiffres, résous les puzzles. PWA installable sur mobile.
+
+- 3 modes de difficulté, mode chrono avec leaderboard en ligne
+- [Jouer](https://dnszlsk.github.io/musubi/) · [GitHub](https://github.com/DNSZLSK/musubi)
+
+Stack : Vanilla JS, Vite, Canvas API, GitHub Pages
+
+---
+
 ### Cherche
 
 - **Alternance** 2 ans (sept. 2026) - Bretagne ou remote
