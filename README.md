@@ -10,43 +10,64 @@ CDA @ AFPA Bretagne · Expert EADL @ ENI (sept. 2026)
 
 ---
 
-### [MUAD'DIB](https://github.com/DNSZLSK/muad-dib) — Supply chain security scanner
+### [MUAD'DIB](https://github.com/DNSZLSK/muad-dib) - Supply chain security scanner
 
-Scanner open-source npm/PyPI. Monitoring 24/7, analyse chaque nouveau package publié.
+Scanner open-source npm/PyPI. Monitoring 24/7, analyse chaque nouveau package publié. Sandbox gVisor, analyse temporelle, détection d'ATO.
 
 ```bash
 npx muaddib-scanner scan .
 ```
 
-- 14 scanners (AST, dataflow, obfuscation, sandbox Docker, temporal diff, AI config injection)
-- 225K+ IOCs npm, 14K+ PyPI
-- 2070 tests, 133 règles, TPR 93.9%, FPR 12.3%, ADR 97.3%
+- 14 scanners (AST, dataflow, obfuscation, sandbox gVisor, temporal diff, taint tracking)
+- 265K+ IOCs npm, 17K+ PyPI
+- 4158 tests, 264 règles, TPR@3 95.74%, FPR 1.10%
 - [npm](https://www.npmjs.com/package/muaddib-scanner) · [VS Code](https://marketplace.visualstudio.com/items?itemName=dnszlsk.muaddib-vscode) · GitHub Action
 
-Stack : Node.js, Docker, Acorn, SARIF, GitHub Actions
-
-> Code écrit avec Claude (Anthropic). Architecture, méthodologie, tests et audits : moi.
+Stack : Node.js, Docker, gVisor, tree-sitter WASM, Acorn, SARIF
 
 ---
 
-### Autres projets
+### [LexLuthor](https://github.com/DNSZLSK/lexluthor) - Code subtitler
 
-| Projet | Description |
-|--------|-------------|
-| [GitCoach](https://www.npmjs.com/package/gitcoach-cli) | CLI d'apprentissage Git — 11e/400 au GitHub Copilot CLI Challenge |
+Extension VS Code qui affiche des sous-titres en langage naturel sous le code, comme des VOSTFR de cinéma. 100% déterministe, offline, sans IA. Le dictionnaire est le produit.
+
+- tree-sitter WASM (JS/TS), i18n FR/EN/ES
+- 612 tests, 74% rich reading
+- Monorepo : core, reader, VS Code extension, CLI
+
+Stack : TypeScript strict, tree-sitter WASM, Vitest
+
+---
+
+### [DDD (DigDigDig)](https://github.com/DNSZLSK/digdigdig) - DJ lossless toolkit
+
+App desktop pour DJs : vérifie la qualité lossless par analyse spectrale FFT, scrape les tracklists de DJ sets YouTube (Content ID), acquiert via Soulseek avec vérification automatique.
+
+- Scan bibliothèque : détecte les faux FLAC/WAV (upscaled MP3)
+- Scraper DJ sets : YouTube Content ID + description + commentaires
+- Pipeline : wishlist Bandcamp/Discogs → Soulseek → vérif spectrale → bibliothèque
+
+Stack : Python, Flet, sldl, FFT/librosa
+
+---
+
+### [GitCoach](https://www.npmjs.com/package/gitcoach-cli) - CLI d'apprentissage Git
+
+11e/400 au GitHub Copilot CLI Challenge. CLI TypeScript, 522 tests, i18n, 5 intégrations Copilot.
 
 ---
 
 ### Cherche
 
-- **Stage** 10 semaines (mai–juillet 2026)
-- **Alternance** 2 ans (sept. 2026) — Bretagne ou remote
+- **Alternance** 2 ans (sept. 2026) - Bretagne ou remote
 
 ---
 
 <div align="center">
 
 *"The code must flow."*
+
+> Code écrit avec Claude (Anthropic). Architecture, méthodologie, tests et audits : moi.
 
 ![Visitors](https://komarev.com/ghpvc/?username=DNSZLSK&color=00ff00&style=flat-square)
 
