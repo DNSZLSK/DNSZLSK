@@ -1,28 +1,22 @@
 <div align="center">
-
 # DNSZLSK
-
 CDA @ AFPA Bretagne · Expert EADL @ ENI (sept. 2026)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kewin-poszalski)
-
 </div>
 
 ---
 
 ### [MUAD'DIB](https://github.com/DNSZLSK/muad-dib) - Supply chain security scanner
-
-Scanner open-source npm/PyPI. Monitoring 24/7, analyse chaque nouveau package publié. Sandbox gVisor, analyse temporelle, détection d'ATO.
-
+Scanner open-source npm/PyPI (AGPL-3.0). Monitoring 24/7, analyse chaque nouveau package publié. Sandbox gVisor, analyse temporelle, détection d'ATO.
 ```bash
 npx muaddib-scanner scan .
+
 ```
 
-- 14 scanners (AST, dataflow, obfuscation, sandbox gVisor, temporal diff, taint tracking)
-- 265K+ IOCs npm, 17K+ PyPI
-- 4158 tests, 264 règles, TPR@3 95.74%, FPR 1.10%
+- 21 scanners (AST, dataflow, obfuscation, sandbox gVisor, temporal diff, taint tracking)
+- 271K+ IOCs npm, 16K+ PyPI
+- 4540 tests, 275 règles, TPR 92.8%, FPR 1.10%
 - [npm](https://www.npmjs.com/package/muaddib-scanner) · [VS Code](https://marketplace.visualstudio.com/items?itemName=dnszlsk.muaddib-vscode) · GitHub Action
-
 Stack : Node.js, Docker, gVisor, tree-sitter WASM, Acorn, SARIF
 
 ---
