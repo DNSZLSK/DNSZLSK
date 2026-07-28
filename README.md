@@ -57,7 +57,7 @@ Stack : TypeScript strict, tree-sitter WASM, Vitest
  
 Site complet pour une association culturelle. Thème FSE custom, 6 Custom Post Types, workflow d'inscription (paliers, waitlist, promotion), envoi d'emails en masse, PWA.
  
-Stack : WordPress (FSE, Gutenberg), PHP, MySQL, OVH
+Stack : WordPress FSE, PHP, MySQL, OVH
 
 ---
 
