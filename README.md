@@ -58,7 +58,9 @@ Stack : TypeScript strict, tree-sitter WASM, Vitest
 Site complet pour une association culturelle. Thème FSE custom, 6 Custom Post Types, workflow d'inscription (paliers, waitlist, promotion), envoi d'emails en masse, PWA.
  
 Stack : WordPress (FSE, Gutenberg), PHP, MySQL, OVH
- 
+
+---
+
 ### [MUSUBI](https://dnszlsk.github.io/musubi/) - Jeu de puzzle rétro
  
 Jeu de logique style CRT inspiré de Glyn. Relie les chiffres, résous les puzzles. PWA installable sur mobile.
