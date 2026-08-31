@@ -53,7 +53,7 @@ Stack : TypeScript strict, tree-sitter WASM, Vitest
  
 ---
  
-### [OPAC Plérin](https://demo.opacplerin.fr) - Site WordPress FSE
+### [OPAC Plérin](https://opacplerin.fr) - Site WordPress FSE
  
 Site complet pour une association culturelle. Thème FSE custom, 6 Custom Post Types, workflow d'inscription (paliers, waitlist, promotion), envoi d'emails en masse, PWA.
  
