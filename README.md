@@ -2,7 +2,7 @@
 
 <h1>DNSZLSK</h1>
 
-CDA @ AFPA Bretagne · Expert EADL @ ENI (nov. 2026)
+Software Supply Chain Security | DevSecOps Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kewin-poszalski)
 
