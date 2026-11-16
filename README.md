@@ -41,6 +41,26 @@ App desktop pour DJs : vérifie la qualité lossless par analyse spectrale FFT, 
 Stack : Python, Flet, sldl, FFT/librosa, ONNX, GitHub Actions
  
 ---
+
+### [LATENTIS](https://dnszlsk.github.io/latentis) - Latent Data Refinement since 1974
+
+*"The work is important. Its nature is not your concern."*
+
+Mod Claude Code : pendant que ton agent travaille, ton Session Self trie des tokens suspects dans quatre départements. Satire corporate de l'industrie de l'IA, en grille de chiffres façon écran cathodique.
+
+- 4 bacs : Hallucination, Sycophancy, Repetition, Overconfidence
+- Maximes du fondateur Elias Gradient, badges volontairement décevants, heures sup non payées
+- Sécurité : aucun process, aucun réseau, aucun hook d'outil, seul `.git/HEAD` est lu
+- [Corporate site](https://dnszlsk.github.io/latentis) · [GitHub](https://github.com/DNSZLSK/latentis) · MIT
+
+```
+/plugin marketplace add DNSZLSK/latentis
+/plugin install latentis@latentis
+```
+
+Stack : TypeScript, Claude Code function hooks, Ink
+ 
+---
  
 ### [LexLuthor](https://github.com/DNSZLSK/lexluthor) - Code subtitler
  
