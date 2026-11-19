@@ -60,18 +60,6 @@ Mod Claude Code : pendant que ton agent travaille, ton Session Self trie des tok
 
 Stack : TypeScript, Claude Code function hooks, Ink
  
----
- 
-### [LexLuthor](https://github.com/DNSZLSK/lexluthor) - Code subtitler
- 
-Extension VS Code qui affiche des sous-titres en langage naturel sous le code, comme des VOSTFR de cinéma. 100% déterministe, offline, sans IA. Le dictionnaire est le produit.
- 
-- tree-sitter WASM (JS/TS), i18n FR/EN/ES
-- 612 tests, 74% rich reading
-- Monorepo : core, reader, VS Code extension, CLI
-Stack : TypeScript strict, tree-sitter WASM, Vitest
- 
----
  
 ### [OPAC Plérin](https://opacplerin.fr) - Site WordPress FSE
  
@@ -79,18 +67,6 @@ Site complet pour une association culturelle. Thème FSE custom, 6 Custom Post T
  
 Stack : WordPress FSE, PHP, MySQL, OVH
 
----
-
-### [MUSUBI](https://dnszlsk.github.io/musubi/) - Jeu de puzzle rétro
- 
-Jeu de logique style CRT inspiré de Glyn. Relie les chiffres, résous les puzzles. PWA installable sur mobile.
- 
-- 3 modes de difficulté, mode chrono avec leaderboard en ligne
-- Puzzle du jour, hints, streaks
-- [Jouer](https://dnszlsk.github.io/musubi/) · [GitHub](https://github.com/DNSZLSK/musubi)
-Stack : Vanilla JS, Vite, Canvas API, GitHub Pages
- 
----
  
 ### [GitCoach](https://www.npmjs.com/package/gitcoach-cli) - CLI d'apprentissage Git
  
