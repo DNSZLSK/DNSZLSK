@@ -2,7 +2,7 @@
 
 <h1>DNSZLSK</h1>
 
-Software Supply Chain Security | DevSecOps Student
+Master’s student in Software Architecture and Development (work-study).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kewin-poszalski)
 
