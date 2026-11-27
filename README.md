@@ -27,20 +27,6 @@ Stack : Node.js, Docker, gVisor, tree-sitter WASM, Acorn, SARIF
 
 ---
 
-### [DDD (DigDigDig)](https://github.com/DNSZLSK/digdigdig) - DJ library toolkit
-
-App desktop pour DJs : classe chaque fichier par coupure spectrale, retrouve une meilleure version sur Soulseek, la vérifie et l'ajoute à la bibliothèque sans toucher aux originaux.
-
-- Scan qualité : 4 niveaux (Wide / HQ / Iffy / Review), spectrogramme par track, doublons, cache de rescan. Lit FLAC, WAV, AIFF, MP3, OGG/Opus, M4A (AAC/ALAC), WMA, APE, WavPack
-- Identification audio : Chromaprint + AcoustID, renommage proposé puis validé track par track
-- Tri par genre : tags ID3, puis Discogs/MusicBrainz, puis Discogs-EffNet (ONNX local, 400 styles)
-- Pipeline : favoris Discogs/Bandcamp, sets YouTube, likes SoundCloud → Soulseek → vérification → bibliothèque. Introuvable → page de liens d'achat
-- [Landing page](https://dnszlsk.github.io/digdigdig) · Windows .exe · macOS Apple Silicon · Docker
-
-Stack : Python, Flet, sldl, numpy/scipy, PyAV, onnxruntime, yt-dlp, GitHub Actions
-
----
-
 ### [LATENTIS](https://github.com/DNSZLSK/latentis) - Latent Data Refinement since 1974
 
 *"The work is important. Its nature is not your concern."*
